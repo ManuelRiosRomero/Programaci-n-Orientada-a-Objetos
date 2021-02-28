@@ -1,0 +1,9 @@
+#OTROS SOLICITANTES
+#numPasaporte
+240
+330
+460
+580
+370
+490
+#FIN

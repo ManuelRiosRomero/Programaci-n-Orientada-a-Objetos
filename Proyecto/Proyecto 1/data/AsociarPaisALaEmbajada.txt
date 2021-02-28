@@ -1,0 +1,6 @@
+100*USA*dolar*15*3000
+110*Francia*euro*25*3550
+120*Chile*peso*5*325
+130*Japon*yen*35*1562
+140*Australia*dolar australiano *0*1850
+#FIN
