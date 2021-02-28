@@ -1,0 +1,7 @@
+#VISAS
+#id--tipo-------valor
+10 *Turismo *70
+20 *Estudiante *50
+30 *Trabajo *200
+40 *Conyuge *65
+#FIN

@@ -1,0 +1,16 @@
+#EMBAJADAS
+#id--país------------moneda--------------impuesto---------tasa de cambio
+100 *USA *dólar *15% *3000
+110 *Francia *euro *25% *3550
+120 *Chile *peso *5% *325
+130 *Japón *yen *35% *1562
+140 *Australia *dólar australiano *0% *1850
+150 *Italia *euro *20% *3550
+160 *Rusia *rublo ruso *34% *3660
+170 *Argelia *dinar argelino *10% *150
+180 *Brasil *Real brasileño *15% *1500
+190 *Irak *Dinar *25% *3500
+200 *Suecia *Corona *17% *2000
+200 *Tazania *Chelín *23% *600
+200 *SriLanka *Rupia *35% *3600
+#FIN
